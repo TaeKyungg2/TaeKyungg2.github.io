@@ -24,7 +24,7 @@ I will write studing story in this github blog.
 - [x] get a good mind
 
 [my github](https://github.com/TaeKyungg2)
-> [!tip]
+> [!TIP]
 > follow my github.
  
  thanks.
