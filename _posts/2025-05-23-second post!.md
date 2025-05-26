@@ -13,6 +13,7 @@ def fun():
     print("hi")
 ```
 > *A rose by any other name would smell as sweet.*
+
 I will write studing story in this github blog.
 - Use english.
     - Hard but I should.
